@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Простой самодельный терминал (CLI) на Java.
  */
-public class CustomTerminal {
+public class CoffeeTerminal {
 
     // Текущая рабочая директория, в которой находится терминал
     private static File currentDirectory = new File(System.getProperty("user.dir"));
