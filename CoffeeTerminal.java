@@ -15,7 +15,8 @@ public class CoffeeTerminal {
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("==========================================================");
-        System.out.println(" Добро пожаловать в самодельный терминал от UniversalSoft!");
+        System.out.println(" Добро пожаловать в самодельный терминал CoffeeTerminal!");
+        System.out.println(" Создано UniversalSoft (отделение Raylit");
         System.out.println(" Введите 'help' для просмотра списка встроенных команд.");
         System.out.println("==========================================================");
 
