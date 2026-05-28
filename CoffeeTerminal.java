@@ -14,10 +14,10 @@ public class CoffeeTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("==================================================");
-        System.out.println(" Добро пожаловать в самодельный терминал, Ратибор! ");
-        System.out.println(" Введи 'help' для просмотра списка базовых команд.");
-        System.out.println("==================================================");
+        System.out.println("==========================================================");
+        System.out.println(" Добро пожаловать в самодельный терминал от UniversalSoft!");
+        System.out.println(" Введите 'help' для просмотра списка встроенных команд.");
+        System.out.println("==========================================================");
 
         // Главный цикл (REPL: Read-Eval-Print Loop)
         while (true) {
