@@ -1,2 +1,2 @@
 # CoffeeTerminal
-a terminal written in java
+терминал на джаве
